@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+#Git Ignore
+.idea/*
+*.iml
+.DS_Store
+*.class
+app.ser
