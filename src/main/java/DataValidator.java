@@ -4,6 +4,7 @@
 public class DataValidator {
 
     public boolean isValidUsername(String userInput) {
+
         return userInput.matches("[a-z]{3,25}");
     }
 
